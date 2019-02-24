@@ -1,0 +1,11 @@
+F:\_HW\EXAM__PREP\EXAM__II__group_II__IMDB\IMDB\C# Skeleton\IMDB\bin\Debug\netcoreapp2.0\IMDB.deps.json
+F:\_HW\EXAM__PREP\EXAM__II__group_II__IMDB\IMDB\C# Skeleton\IMDB\bin\Debug\netcoreapp2.0\IMDB.runtimeconfig.json
+F:\_HW\EXAM__PREP\EXAM__II__group_II__IMDB\IMDB\C# Skeleton\IMDB\bin\Debug\netcoreapp2.0\IMDB.runtimeconfig.dev.json
+F:\_HW\EXAM__PREP\EXAM__II__group_II__IMDB\IMDB\C# Skeleton\IMDB\bin\Debug\netcoreapp2.0\IMDB.dll
+F:\_HW\EXAM__PREP\EXAM__II__group_II__IMDB\IMDB\C# Skeleton\IMDB\bin\Debug\netcoreapp2.0\IMDB.pdb
+F:\_HW\EXAM__PREP\EXAM__II__group_II__IMDB\IMDB\C# Skeleton\IMDB\obj\Debug\netcoreapp2.0\IMDB.csprojAssemblyReference.cache
+F:\_HW\EXAM__PREP\EXAM__II__group_II__IMDB\IMDB\C# Skeleton\IMDB\obj\Debug\netcoreapp2.0\IMDB.csproj.CoreCompileInputs.cache
+F:\_HW\EXAM__PREP\EXAM__II__group_II__IMDB\IMDB\C# Skeleton\IMDB\obj\Debug\netcoreapp2.0\IMDB.AssemblyInfoInputs.cache
+F:\_HW\EXAM__PREP\EXAM__II__group_II__IMDB\IMDB\C# Skeleton\IMDB\obj\Debug\netcoreapp2.0\IMDB.AssemblyInfo.cs
+F:\_HW\EXAM__PREP\EXAM__II__group_II__IMDB\IMDB\C# Skeleton\IMDB\obj\Debug\netcoreapp2.0\IMDB.dll
+F:\_HW\EXAM__PREP\EXAM__II__group_II__IMDB\IMDB\C# Skeleton\IMDB\obj\Debug\netcoreapp2.0\IMDB.pdb

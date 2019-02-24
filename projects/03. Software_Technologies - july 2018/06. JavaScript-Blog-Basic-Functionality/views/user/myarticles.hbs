@@ -1,0 +1,35 @@
+<div class="container body-content">
+    <div class="row">
+        <div class="col-md-12">
+            {{#each articles}}
+                <article>
+                    <header>
+                        <h2>{{this.title}}</h2>
+                    </header>
+
+                    <img src="{{this.image}}" width="500px"/>
+
+                    <p>
+                        {{this.content}}
+                    </p>
+
+                    <!--<small class="author">-->
+                        <!--{{this.User.fullName}}-->
+                    <!--</small>-->
+
+                    <small>
+                        {{this.date}}
+                    </small>
+
+                    <footer>
+                        <div class="pull-right">
+                            <a class="btn btn-default btn-xs" href="/article/edit/{{this.id}}">Edit</a>
+                            <a class="btn btn-danger btn-xs" href="/article/delete/{{this.id}}">Delete</a>
+                            <a class="btn btn-primary btn-xs" href="/">Back &raquo;</a>
+                        </div>
+                    </footer>
+                </article>
+            {{/each}}
+        </div>
+    </div>
+</div>

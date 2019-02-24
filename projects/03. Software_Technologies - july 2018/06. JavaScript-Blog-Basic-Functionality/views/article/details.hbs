@@ -1,0 +1,49 @@
+<div class="container body-content">
+    <div class="row">
+        <div class="col-md-12">
+            <article>
+                <header>
+                    <h2>{{title}}</h2>
+                </header>
+
+                <img src="{{image}}" width="800px"/>
+
+                <p>
+                    {{content}}
+                </p>
+
+                <small class="author">
+                    {{this.User.fullName}}
+                </small>
+
+                <footer>
+                    <div class="pull-right">
+                        <button id="commentForm" class="btn btn-success btn-xs">Add Comment</button>
+                        <a class="btn btn-default btn-xs" href="/">Back &raquo;</a>
+                    </div>
+                </footer>
+            </article>
+        </div>
+
+        <div id="result"></div>
+
+    </div>
+</div>
+
+<script>
+    $('#commentForm').click(function () {
+        $('#result').empty();
+
+        let form = `
+        <div class="form-group" id="form">
+        <label for='comment'>Add Comment:</label>
+        <textarea class="form-control" rows="5" id="comment"></textarea><br>
+        <button class="btn btn-success btn-xs" type="submit">Add Comment</button>
+        </div>
+        `;
+
+        $('#result').append(form);
+        $('#result').toggle();
+    });
+
+</script>

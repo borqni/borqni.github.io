@@ -1,0 +1,20 @@
+F:\_HW\Blog_cs\Blog_cs\bin\Debug\netcoreapp2.0\Blog_cs.deps.json
+F:\_HW\Blog_cs\Blog_cs\bin\Debug\netcoreapp2.0\Blog_cs.runtimeconfig.json
+F:\_HW\Blog_cs\Blog_cs\bin\Debug\netcoreapp2.0\Blog_cs.runtimeconfig.dev.json
+F:\_HW\Blog_cs\Blog_cs\bin\Debug\netcoreapp2.0\Blog_cs.dll
+F:\_HW\Blog_cs\Blog_cs\obj\Debug\netcoreapp2.0\Blog_cs.csprojAssemblyReference.cache
+F:\_HW\Blog_cs\Blog_cs\obj\Debug\netcoreapp2.0\Blog_cs.csproj.CoreCompileInputs.cache
+F:\_HW\Blog_cs\Blog_cs\obj\Debug\netcoreapp2.0\Blog_cs.AssemblyInfoInputs.cache
+F:\_HW\Blog_cs\Blog_cs\obj\Debug\netcoreapp2.0\Blog_cs.AssemblyInfo.cs
+F:\_Softuni\02.02.Software_Technologies---02.07.2018\14. CSharp-Blog-Basic-Functionality-Blog-Design__Homework\Blog_cs\bin\Debug\netcoreapp2.0\Blog_cs.deps.json
+F:\_Softuni\02.02.Software_Technologies---02.07.2018\14. CSharp-Blog-Basic-Functionality-Blog-Design__Homework\Blog_cs\bin\Debug\netcoreapp2.0\Blog_cs.runtimeconfig.json
+F:\_Softuni\02.02.Software_Technologies---02.07.2018\14. CSharp-Blog-Basic-Functionality-Blog-Design__Homework\Blog_cs\bin\Debug\netcoreapp2.0\Blog_cs.runtimeconfig.dev.json
+F:\_Softuni\02.02.Software_Technologies---02.07.2018\14. CSharp-Blog-Basic-Functionality-Blog-Design__Homework\Blog_cs\bin\Debug\netcoreapp2.0\Blog_cs.dll
+F:\_Softuni\02.02.Software_Technologies---02.07.2018\14. CSharp-Blog-Basic-Functionality-Blog-Design__Homework\Blog_cs\bin\Debug\netcoreapp2.0\Blog_cs.pdb
+F:\_Softuni\02.02.Software_Technologies---02.07.2018\14. CSharp-Blog-Basic-Functionality-Blog-Design__Homework\Blog_cs\obj\Debug\netcoreapp2.0\Blog_cs.csprojAssemblyReference.cache
+F:\_Softuni\02.02.Software_Technologies---02.07.2018\14. CSharp-Blog-Basic-Functionality-Blog-Design__Homework\Blog_cs\obj\Debug\netcoreapp2.0\Blog_cs.csproj.CoreCompileInputs.cache
+F:\_Softuni\02.02.Software_Technologies---02.07.2018\14. CSharp-Blog-Basic-Functionality-Blog-Design__Homework\Blog_cs\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\_Softuni\02.02.Software_Technologies---02.07.2018\14. CSharp-Blog-Basic-Functionality-Blog-Design__Homework\Blog_cs\obj\Debug\netcoreapp2.0\Blog_cs.AssemblyInfoInputs.cache
+F:\_Softuni\02.02.Software_Technologies---02.07.2018\14. CSharp-Blog-Basic-Functionality-Blog-Design__Homework\Blog_cs\obj\Debug\netcoreapp2.0\Blog_cs.AssemblyInfo.cs
+F:\_Softuni\02.02.Software_Technologies---02.07.2018\14. CSharp-Blog-Basic-Functionality-Blog-Design__Homework\Blog_cs\obj\Debug\netcoreapp2.0\Blog_cs.dll
+F:\_Softuni\02.02.Software_Technologies---02.07.2018\14. CSharp-Blog-Basic-Functionality-Blog-Design__Homework\Blog_cs\obj\Debug\netcoreapp2.0\Blog_cs.pdb

@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\New folder\C#\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.deps.json
+C:\Users\Lenovo\Desktop\New folder\C#\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.runtimeconfig.json
+C:\Users\Lenovo\Desktop\New folder\C#\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\New folder\C#\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.dll
+C:\Users\Lenovo\Desktop\New folder\C#\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.pdb
+C:\Users\Lenovo\Desktop\New folder\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\New folder\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\New folder\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\New folder\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\New folder\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.dll
+C:\Users\Lenovo\Desktop\New folder\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.pdb
