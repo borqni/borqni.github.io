@@ -1,1 +1,55 @@
-/*TODO:*/
+@media all and (max-width:768px) {
+    #main {
+        flex-direction: column;
+    }
+    #main>aside {
+        width: 100%;
+    }
+    aside img {
+        width: 95%;
+        margin-top: 27px;
+        margin-left: 13px;
+    }
+    .progress-bar {
+        color: #009688;
+    }
+    main {
+        width: 100%;
+    }
+    #work {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    aside {
+        margin: 0;
+    }
+    footer {
+        padding: 15px 0;
+    }
+    #education {
+        margin-bottom: 2%;
+    }
+}
+
+
+/* 
+@media all and (max-width:1028px) and (min-width:769px) {
+    #main {
+        flex-direction: column;
+    }
+    #main>aside {
+        width: 100%;
+    }
+    #personal-info {
+        display: inline-block;
+    }
+    aside img {
+        width: 200px;
+        height: auto;
+        margin: 2%;
+    }
+    main {
+        width: 100%;
+        margin-right: 2%;
+    }
+} */
