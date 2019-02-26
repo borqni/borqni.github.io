@@ -1,59 +1,61 @@
-@media all and (max-width:465px) {
+@media all and (max-width:500px) {
     html {
         font-size: 14px;
     }
-    #main {
-        flex-direction: column;
-    }
-    #main>aside {
-        width: 100%;
-    }
-    aside img {
-        width: 95%;
-        margin-top: 27px;
-        margin-left: 13px;
-    }
-    .progress-bar {
-        color: #009688;
-    }
     main {
         width: 100%;
+        margin: 0;
+    }
+    #sait {
+        flex-direction: column;
+    }
+    #sait>aside {
+        width: 100%;
+        margin: 0;
     }
     #work {
         padding-left: 40px;
         padding-right: 40px;
     }
-    aside {
-        margin: 0;
-    }
     footer {
         padding: 15px 0;
+        margin-top: 15px;
     }
-    #education {
-        margin-bottom: 2%;
+    aside img {
+        width: 95%;
+        margin: 3%;
     }
+    aside article {
+        padding-left: 3%;
+        padding-right: 3%;
+    }
+    /* .progress-bar {
+        color: #009688;
+    } */
 }
 
-@media all and (max-width:769px) and (min-width:465px) {
+@media all and (max-width:800px) and (min-width:501px) {
     html {
         font-size: 16px;
     }
-    #main {
+    main {
+        width: 100%;
+    }
+    #sait {
         flex-direction: column;
     }
-    #main>aside {
-        width: 100%;
+    #sait>aside {
+        width: 96%;
+        margin: 2%;
+        margin-bottom: 0;
     }
     #personal-info {
         display: inline-block;
     }
     aside img {
+        /* border-radius: 20%; */
         width: 200px;
         height: auto;
         margin: 2%;
-    }
-    main {
-        width: 100%;
-        margin-right: 2%;
     }
 }

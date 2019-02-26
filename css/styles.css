@@ -6,7 +6,7 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-#main {
+#sait {
     display: flex;
 }
 
@@ -18,7 +18,7 @@ main section {
 }
 
 aside {
-    width: 22%;
+    width: 30%;
     /* margin-bottom: 0; */
 }
 
@@ -39,7 +39,7 @@ aside article p i {
 }
 
 main {
-    width: 65%;
+    width: 55%;
     margin-bottom: 2%;
 }
 
