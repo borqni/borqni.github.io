@@ -1,4 +1,7 @@
-@media all and (max-width:768px) {
+@media all and (max-width:465px) {
+    html {
+        font-size: 14px;
+    }
     #main {
         flex-direction: column;
     }
@@ -31,9 +34,10 @@
     }
 }
 
-
-/* 
-@media all and (max-width:1028px) and (min-width:769px) {
+@media all and (max-width:769px) and (min-width:465px) {
+    html {
+        font-size: 16px;
+    }
     #main {
         flex-direction: column;
     }
@@ -52,4 +56,4 @@
         width: 100%;
         margin-right: 2%;
     }
-} */
+}
