@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+body {
+    background: rgb(241, 241, 241);
+    width: 100%;
+    margin: 0 auto;
+    font-family: 'Roboto', sans-serif;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    margin: 0.5rem;
+}
+
+main {
+    background: white;
+    box-shadow: rgba(0, 0, 0, 0.2) 0 4px 10px 0, rgba(0, 0, 0, 0.19) 0 4px 20px 0;
+    margin: 0.5rem;
+    min-height: 80vh;
+    width: 97%;
+    padding: 1rem;
+}
+
+nav ul {
+    background: white;
+    box-shadow: rgba(0, 0, 0, 0.2) 0 4px 10px 0, rgba(0, 0, 0, 0.19) 0 4px 20px 0;
+    padding: 0.5rem;
+    border-radius: 0.3rem;
+    margin: 0;
+    display: flex;
+}
+
+nav ul ul {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: -0.5rem;
+    /* width: 13rem; */
+}
+
+nav ul ul ul {
+    top: -0.5rem;
+    right: 100%;
+    left: inherit;
+}
+
+nav ul li {
+    display: block;
+    list-style: none outside;
+    position: relative;
+    min-width: 13rem;
+}
+
+nav>ul>li>ul li:not(:last-child) {
+    padding-bottom: 0.5rem;
+}
+
+nav>ul>li {
+    padding: 0 0.5rem 0 0;
+}
+
+
+/* nav ul li:hover>a {} */
+
+nav ul li:hover>ul {
+    display: block;
+}
+
+nav ul li a {
+    display: block;
+    padding: 0.5rem 1rem;
+    border-radius: 0.4rem;
+    text-decoration: none;
+    background: #009688;
+    color: #FFF;
+}
+
+nav ul li a:hover,
+nav ul li:hover>a {
+    background: #333;
+}
