@@ -30,6 +30,138 @@
       <path value="$PROJECT_DIR$/Software_Technologies/JS/EXAM_PREP/IMDB/package.json" />
       <path value="$PROJECT_DIR$/Software_Technologies/JS/EXAM_PREP/Project Rider/package.json" />
       <path value="$PROJECT_DIR$/Software_Technologies/JS/MY_EXAM/IssueTracker/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/@types/geojson/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/@types/node/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/align-text/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/amdefine/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/ansicolors/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/basic-auth/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/bluebird/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/cardinal/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/center-align/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/cliui/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/cls-bluebird/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/cookie-parser/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/crc/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/denque/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/dottie/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/esprima/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/express-session/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/foreachasync/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/generate-function/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/generic-pool/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/handlebars/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/hbs/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/http-errors/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/inflection/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/is-bluebird/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/lazy-cache/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/long/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/lru-cache/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/moment-timezone/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/moment/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/morgan/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/mysql2/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/named-placeholders/node_modules/lru-cache/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/named-placeholders/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/on-headers/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/optimist/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/passport-local/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/passport-strategy/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/passport/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/pause/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/pseudomap/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/random-bytes/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/redeyed/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/retry-as-promised/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/right-align/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/seq-queue/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/sequelize/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/sequelize/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/shimmer/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/sqlstring/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/terraformer-wkt-parser/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/terraformer/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/toposort-class/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/uglify-js/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/uglify-to-browserify/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/uid-safe/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/validator/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/walk/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/window-size/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/wkx/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/yallist/package.json" />
+      <path value="$PROJECT_DIR$/Software_Technologies/JS/node_modules/yargs/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
@@ -104,32 +236,33 @@
       <option name="presentableId" value="Default" />
       <updated>1552471932323</updated>
       <workItem from="1552471933653" duration="1582000" />
+      <workItem from="1552724165271" duration="25000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1582000" />
+    <option name="totallyTimeSpent" value="1607000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="667" y="88" width="1228" height="936" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.45329905" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.38014185" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,26 +272,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Software_Technologies/CSharp-Blog/Blog_cs.sln">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-179" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Software_Technologies/CSharp-Blog/Blog_cs/bin/Debug/netcoreapp2.0/Blog_cs.deps.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3240" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Software_Technologies/JS-Blog/bin/www">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-450" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Software_Technologies/JS-Blog/config/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Software_Technologies/JS-Blog/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Software_Technologies/CSharp-Blog/Blog_cs.sln" />
+    <entry file="file://$PROJECT_DIR$/Software_Technologies/CSharp-Blog/Blog_cs/bin/Debug/netcoreapp2.0/Blog_cs.deps.json" />
+    <entry file="file://$PROJECT_DIR$/Software_Technologies/JS-Blog/bin/www" />
+    <entry file="file://$PROJECT_DIR$/Software_Technologies/JS-Blog/config/package-lock.json" />
+    <entry file="file://$PROJECT_DIR$/Software_Technologies/JS-Blog/package.json" />
   </component>
 </project>

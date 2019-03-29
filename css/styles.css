@@ -173,8 +173,13 @@ footer p {
     text-decoration: none;
 }
 
+#certificates div {
+    margin: 2rem 0;
+}
+
 #education a {
-    padding: 0.2rem;
+    padding: 0.1rem 0.5rem;
+    word-wrap: normal;
 }
 
 a:hover {
