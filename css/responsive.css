@@ -4,14 +4,15 @@
     }
     main {
         width: 100%;
-        margin: 0;
+        margin: 0 0 5px 0;
     }
     #sait {
         flex-direction: column;
     }
-    #sait>aside {
+    #sait>aside,
+    #sait>menu {
         width: 100%;
-        margin: 0;
+        margin: 0; 
     }
     #work {
         padding-left: 40px;
@@ -34,7 +35,7 @@
     } */
 }
 
-@media all and (max-width:915px) and (min-width:501px) {
+@media all and (max-width:999px) and (min-width:501px) {
     html {
         font-size: 16px;
     }
@@ -44,9 +45,10 @@
     #sait {
         flex-direction: column;
     }
-    #sait>aside {
-        width: 96%;
-        margin: 2% auto;
+    #sait>aside,
+    #sait>menu {
+        width: 100%;
+        margin: auto;
         margin-bottom: 0;
     }
     #personal-info>h3 {
