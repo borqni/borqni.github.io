@@ -8,6 +8,11 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+#meditacion {
+    font-family: 'calibri';
+    font-size: 20px;
+}
+
 li {
     margin-bottom: 0.7rem;
     padding: 0.2rem 0;
@@ -17,9 +22,7 @@ li {
     display: flex;
 }
 
-aside,
-menu,
-main section {
+aside, menu, main section {
     background: white;
     box-shadow: rgba(0, 0, 0, 0.2) 0 4px 10px 0, rgba(0, 0, 0, 0.19) 0 4px 20px 0;
     margin: 1%;
@@ -35,9 +38,9 @@ main {
 }
 
 menu {
-width: 25%;
-/* margin-bottom: 2%; */
-padding: 0;
+    width: 25%;
+    /* margin-bottom: 2%; */
+    padding: 0;
 }
 
 aside img {
@@ -56,7 +59,6 @@ aside article p i {
     padding-right: 6px;
     color: #009688;
 }
-
 
 hr {
     width: 80%;
@@ -106,26 +108,20 @@ footer p {
     margin: 5px;
 }
 
-#work,
-#education,
-#menu {
+#test, #work, #education, #menu {
     margin-top: 3%;
     padding: 14px 18px;
     margin-bottom: 0;
 }
 
-#work h2,
-#education h2,
-#menu h2 {
+#work h2, #education h2, #menu h2 {
     color: #757575;
     font-weight: 300;
     font-size: 2em;
     margin: 0.5em 0;
 }
 
-#work i,
-#education i,
-#menu i {
+#work i, #education i, #menu i {
     color: #009688;
     padding-right: 10px;
 }
@@ -136,8 +132,7 @@ footer p {
     font-style: italic;
 }
 
-#education h4,
-#menu h4 {
+#education h4, #menu h4 {
     color: #757575;
     font-weight: normal;
     font-size: 25px;
@@ -178,10 +173,7 @@ footer p {
     margin: 6%;
 }
 
-#certificates a,
-#education a,
-#menu a,
-.btn>a {
+#certificates a, #education a, #menu a, .btn>a {
     box-shadow: rgba(0, 0, 0, 0.2) 0 4px 10px 0, rgba(0, 0, 0, 0.19) 0 4px 20px 0;
     padding: 0.5rem;
     border-radius: 0.3rem;
@@ -192,8 +184,7 @@ footer p {
     margin: 2rem 0;
 }
 
-#education a,
-#menu a {
+#education a, #menu a {
     padding: 0.1rem 0.5rem;
     word-wrap: normal;
     margin-bottom: 0.5rem;
